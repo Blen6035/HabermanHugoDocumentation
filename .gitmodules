@@ -1,0 +1,3 @@
+[submodule "themes/DocWeb-Base"]
+	path = themes/DocWeb-Base
+	url = https://github.com/arjun-rao/DocWeb-Base
